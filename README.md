@@ -1,2 +1,3 @@
-# FlattenNestedArray
-Flatten nested array in PHP
+# Flatten Nested Array
+
+Flatten multidimensional array in php
